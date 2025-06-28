@@ -198,7 +198,7 @@
             display: none;
             cursor: pointer;
             font-size: 1.5rem;
-            color: var(--text-color);
+            background: var(--bg-color);
         }
 
         /* Hero Section */
